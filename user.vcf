@@ -1,14 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Martins;Jody;;;
+FN: Jody  Martins 
+ORG:Keller Williams Elite;
+TITLE:REALTOR®\nReal Estate Professional
+EMAIL;type=INTERNET;type=WORK;type=pref:jody@jodymartins.com
+TEL;type=WORK;type=VOICE:+1 508 266 5252
+TEL;type=MOBILE;type=VOICE:+1 401 318 7755
+item1.ADR;type=WORK;type=pref:;;25 Messenger Street\n2nd Floor\;Plainville;MA;02762;USA
+item1.X-ABADR:US
+item2.URL;type=pref:jodymartins.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
