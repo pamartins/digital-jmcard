@@ -34,10 +34,10 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 50%;
+	width: 50%;
 	object-fit: cover;
-	border-radius: 50%;
+	border-radius: 0%;
 }
 
 .container {
@@ -49,7 +49,7 @@ img.profile-pic {
 .row {
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-end;
 	flex-wrap: nowrap;
 	flex-direction: row;
 	position: relative;
