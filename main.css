@@ -197,9 +197,10 @@ img.profile-pic {
 	max-width: 160px;
 }
 .button-txt {
-    font-size: 14px;
-    color: #219654;
-    font-weight: bold;
+    	font-size: 14px;
+	color: #219654;
+	font-weight: 300;
+	font-family: 'Muli', sans-serif;
 }
 
 @media screen and (max-width: 600px) {
