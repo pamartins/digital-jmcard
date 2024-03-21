@@ -196,6 +196,10 @@ img.profile-pic {
 	max-width: 200px;
 	margin: 0 auto;
 }
+.qrcode {
+	width: 100%;
+	max-width: 160px;
+}
 .button-txt {
     font-size: 14px;
     color: #219654;
