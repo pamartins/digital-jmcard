@@ -194,7 +194,11 @@ img.profile-pic {
 	font-weight: 300;
 	border-radius: 7px;
 }
-
+.button-txt {
+    font-size: 14px;
+    color: #219654;
+    font-weight: bold;
+}
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
