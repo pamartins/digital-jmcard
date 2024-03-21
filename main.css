@@ -194,6 +194,7 @@ img.profile-pic {
 	border-radius: 7px;
 	width: 100%;
 	max-width: 200px;
+	margin: 0 auto;
 }
 .button-txt {
     font-size: 14px;
